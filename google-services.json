@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "266959498025",
+    "project_id": "xamaringcm-8ed66"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266959498025:android:4ce8badfc10aae59",
+        "android_client_info": {
+          "package_name": "com.xamarin.gcmexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtw5YdqG175Omx6-Il-JDHh_G0lOr3nks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
